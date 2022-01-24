@@ -7,10 +7,10 @@ body{
 }
 
 .main-content{
-    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/cdf7444d030e541f8dbca0fc/16951-min.jpg");
+    
     padding: 100px 0 100px 100px;
     background-attachment: fixed;
-    background-position: left 50% 50%;
+    background-position: left 20% 20%;
     background-size: cover;
 
     }
