@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+
+
+body{
+    font-family: "Roboto Slab", serif;
+    border-radius: 30px;
+}
+.content {
+    position: relative;
+}
+
+.ice-cream-image{
+    object-position: 50.07% 0%;
+    background-position: 50.07% 0%;
+    width: 445px;
+    height: 550px;
+    object-fit: scale-down;
+    margin-top: 0;
+    margin-top: 80px;
+    margin-left: 60px;
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+    position: absolute;
+    z-index: -1;
+}
+
+.main-content{
+    background-color: #ffffff;
+    padding: 100px 0 100px 100px;
+    /* object-position: 50.07% 0%; */
+    /* background-position: 50.07% 0%; */
+    width: 445px;
+    /* height: 550px; */
+    margin-left: 300px;
+    object-fit: cover;
+    display: block;
+    /* overflow: hidden; */
+    
+}
+
+.image{
+    overflow: hidden;
+}
+.wrapper{
+    width: 50%;
+
+}
+.color-title{
+    font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 0;
+    color: #fda700 ;
+    word-wrap: break-word;
+    position: relative;
+     font-size: 2.5rem;
+     text-align: left;
+    padding: 0;
+}
+
+.description a{
+    font-style: normal;
+}
+.my-lovely-button{
+    font-family: "Open Sans",sans-serif;
+    background-image: none;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 20px auto 0 0;
+    color: #ffffff;
+    background-color: #fda700;
+    text-decoration: none;
+    border: 0 none transparent;
+    outline-width: 0;
+}

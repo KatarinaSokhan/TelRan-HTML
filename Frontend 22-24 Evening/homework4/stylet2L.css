@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=Open+Sans:wght@300&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=Open+Sans:wght@300&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=Open+Sans:wght@300&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+
+body{
+    font-family:"Roboto+Condensed" sans-serif;
+
+    }
+
+    .main-content{
+        background-image: url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/060307c9979a596fa8c3a36d/pexelsphoto2208836.jpeg");
+        padding: 30px 10px;
+        min-height: 680px;
+        flex: 0 0 50%;
+        max-width: 50%;
+        background-position: right top;
+        overflow: visible;
+        vertical-align: middle;
+        background-size: cover;
+    }
+    .wrapper{
+        width: 50%;
+    
+    }
+    .mini-title{
+        font-family: Roboto,sans-serif;
+        font-size: 1.25rem;
+        color: #111111;
+        text-transform: uppercase;
+        font-weight: 900;
+        letter-spacing: 2px;
+        margin: 0 auto;
+        }
+        .color-title{
+        color: #f1c50e ;
+        font-family: Roboto,sans-serif;
+        word-wrap: break-word;
+        position: relative;
+        font-size: 2.25rem;
+        line-height: 1.1;
+        font-weight: 700;
+        margin: 20px 0 0;
+        }
+        .description{
+            font-family: "Open Sans",sans-serif;
+            color: #111111;
+            font-size: 1rem;
+            line-height: 1.6;
+            text-align: center;
+        }
+        .description a{
+            font-style: normal;
+        }
+        .my-lovely-button{
+            font-family: "Open Sans",sans-serif;
+            color: #ffffff;
+            background-color: #f1c50e ;
+            background-image: none;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+             margin: 60px auto 0;
+             position: relative;
+             padding: 30px 10px;
+             font-size: inherit;
+    font-weight: inherit;
+    font-family: inherit;
+    line-height: inherit;
+             
+        
+        }

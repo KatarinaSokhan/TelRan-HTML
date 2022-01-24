@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=Open+Sans:wght@300&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+
+
+body{
+    font-family: "Oswald", sans-serif 
+}
+.main-content{
+
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/e5e1daf96a4558d495356b37/2777964d-min.jpg");
+    padding: 100px 0 100px 100px;
+    background-position: 50% 50%;
+    background-position: right top;
+    background-size: cover;
+    border-width: 0;
+    object-fit: cover;
+    display: block;
+    vertical-align: middle;
+    background-size: cover;
+}
+.wrapper{
+    width: 50%;
+
+}
+.color-title{
+    font-family:"Oswald", sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin: 20px 789px 0 0;
+    color: #db545a ;
+     font-size: 4.5rem;
+     width: auto;
+     margin-right: 301px;
+     word-wrap: break-word;
+    position: relative;
+    padding: 0;
+}
+
+.description a{
+    font-style: normal;
+}
+.my-lovely-button{
+    font-family: "Open Sans", sans-serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    font-weight: 700;
+    color: #ffffff;
+    background-color: #db545a;
+    background-image: none;
+    text-transform: uppercase;
+    margin: 30px 0 60px;
+    user-select: none;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 30px;
+    border-radius: 0;
+
+
+
+}

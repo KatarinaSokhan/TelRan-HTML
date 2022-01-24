@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@1,100;1,800&family=Open+Sans:wght@300&family=PT+Sans:wght@700&family=Roboto+Condensed:wght@700&display=swap');
+
+body{
+    font-family: "Open+Sans", sans-serif;
+}
+
+.main-content{
+    background-image: url("https://images03.nicepage.com/c461c07a441a5d220e8feb1a/cdf7444d030e541f8dbca0fc/16951-min.jpg");
+    padding: 100px 0 100px 100px;
+    background-attachment: fixed;
+    background-position: left 50% 50%;
+    background-size: cover;
+
+    }
+    .wrapper{
+        width: 50%;
+    }
+    .mini-title{
+        font-family: "Roboto+Condensed",sans-serif;
+        text-align: left; 
+        font-size: 1.25rem;
+        font-weight: 700;
+        line-height: 1.2;
+        color: inherit;
+        background-image: none;
+        text-transform: uppercase;
+        letter-spacing: 5px;
+
+    }
+    .color-title{
+        font-family: "Roboto Condensed", sans-serif !important;
+        font-size: 3rem;
+        text-transform: uppercase;
+        letter-spacing: normal;
+        font-weight: 700;
+        color: #3870bb ;
+        word-wrap: break-word;
+        position: relative;
+
+    }
+    .description{
+        font-family: "Open Sans",sans-serif;
+        color: #111111;
+        line-height: 1.6;
+        font-size: 1.125rem;
+        word-wrap: break-word;
+        position: relative;
+    }
+
+    .description a{
+        color: #000000; 
+        word-wrap: break-word;
+        position: relative;
+        font-size: 1rem;
+        line-height: 1.6;
+
+    }
+    .my-lovely-button{
+        color: #ffffff;
+        background-color: #000000;
+        background-image: none;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        font-weight: 700;
+        font-size: 1rem;
+        border-style: none;
+        margin: 45px auto 0 0;
+        padding: 10px 52px 10px 51px;
+    }
