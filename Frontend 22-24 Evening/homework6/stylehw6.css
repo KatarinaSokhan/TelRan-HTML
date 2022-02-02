@@ -1,0 +1,79 @@
+.header {
+  background-color: white;
+  color: black;
+  font-size: 1.0rem;
+  height: 50px;
+
+}
+
+article {
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px 3px #eed4ee;
+  width: 700px;
+  height: auto;
+  border: 1px solid rgb(218, 175, 219);
+  padding: 3px;
+}
+
+.right-navigation {
+  float: right;
+  margin-right: 450px;
+  width: 200px"
+
+}
+
+aside {
+  background-color: #f5cdf3;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px 3px #eccfec, inset 3px 3px 3px 3px #eccfec;
+  font-size: 20px;
+  width: 200px;
+  border: rgb(202, 132, 204) 2px ridge;
+  /* *height: 60vh; */
+  margin-bottom: 50px;
+}
+
+.border-box {
+  position: relative;
+  margin: 1rem;
+  float: right;
+}
+
+
+img {
+  width: 200px;
+  border: rgb(190, 102, 190) dashed 3px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #d6cdd6;
+  margin: 1.5rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 12pt;
+
+
+}
+
+.content {
+  background-color: rgb(243, 225, 234);
+  border: rgb(204, 101, 207) 2px ridge;
+  border-radius: 15px;
+  padding: 20px;
+
+}
+
+.right navigation {
+  clear: right;
+  margin: 0 auto;
+}

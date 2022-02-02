@@ -1,0 +1,249 @@
+body {
+  padding: 30px;
+  text-align: center;
+}
+.block {
+  border: 5px solid gray;
+  max-width: 800px;
+  margin: 0px auto;
+  height: 800px;
+  
+}
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.block.div{
+  line-height: 50px;
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  
+  
+}
+
+.bl1 {
+  background-color: rgb(58, 61, 218);
+  line-height: 50px;
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  margin: 1rem;
+  position: relative;
+  
+}
+
+#bL2 {
+  background-color: #e7a8a8;
+  color: rgb(104, 5, 104);
+  border: rgb(204, 204, 201) 3px solid;
+  font-size: 2.5em;
+  height: 300px;
+  width: 80px;
+  float: right;
+  right: 10px;
+  bottom: 5px;
+  margin: 1rem;
+
+}
+
+
+#bL5 {
+  background-color: #e7a8a8;
+  color: rgb(104, 5, 104);
+  border: rgb(204, 204, 201) 3px solid;
+  font-size: 2.5em;
+  height: 300px;
+  width: 80px;
+  margin-bottom: 20px;
+  right: 10px;
+  float: left;
+  margin: 1rem;
+
+}
+
+
+#bL3 {
+  background-color: rgb(235, 24, 24);
+  padding: 10px;
+  color: rgb(104, 5, 104);
+  font-size: 2.5em;
+  position: relative;
+  width: 45%;
+  top: 5px;
+  left: 180px;
+  margin: 5px;
+  border: 3px solid rgb(204, 204, 201);
+  /*position: relative;
+  top: 60px;
+  z-index: 0;
+   right: ;
+  bottom: ; */
+}
+
+
+#bL4 {
+  background-color: rgb(143, 236, 221);
+  padding: 5px;
+  color: rgb(104, 5, 104);
+  height: 200px;
+  border: 3px solid rgb(204, 204, 201);
+  font-size: 3.5em;
+  margin: 3px;
+  position: relative;
+  width:350px;
+  top: 20px;
+  left: 200px;
+ 
+  
+}
+
+#bL6 {
+  background-color: rgb(241, 173, 24);
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  height: 50px;
+  border: rgb(204, 204, 201) 3px solid;
+  margin: 2rem;
+  position: relative;
+  
+
+}
+#bL7{
+  background-color: aqua;
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  width: 250px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width:250px;
+  bottom: 40px;
+  left: 30px;
+  margin: 1rem;
+  float: left;
+  
+}
+#bL8{
+  background-color: aqua;
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  width: 150px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width:250px;
+  bottom: 40px;
+  right: 40px;
+  margin: 1rem;
+  float: right;
+}
+#bL9{
+  background-color: rgb(243, 240, 34);
+  color: rgb(104, 5, 104);
+  font-size: 3.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 100px;
+  top: 30px;
+  left: -250px;
+  margin: 1rem;
+  float: left;
+  
+}
+#bL10{
+  background-color: rgb(243, 240, 34);
+  color: rgb(104, 5, 104);
+  font-size: 3.5rem;
+  width: 100px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 100px;
+  bottom: 55px;
+  left: -250px;
+  margin: 1rem;
+  float: left;
+}
+#bL11{
+  background-color: rgb(243, 240, 34);
+  color: rgb(104, 5, 104);
+  font-size: 3.5rem;
+  width: 100px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 100px;
+  bottom: 55px;
+  left: -85px;
+  margin: 1rem;
+  float: left;
+}
+#bL12{
+  background-color: rgb(243, 240, 34);
+  color: rgb(104, 5, 104);
+  font-size: 3.5rem;
+  width: 100px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 100px;
+  bottom: 155px;
+  left: -50px;
+  margin: 1rem;
+  float: right;
+}
+#bL13{
+  background-color: rgb(118, 243, 34);
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 200px;
+  bottom: 55px;
+  left: -370px;
+  margin: 1rem;
+  float: right;
+}
+#bL14{
+  background-color: rgb(118, 243, 34);
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  width: 100px;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  position: relative;
+  width: 200px;
+  bottom: 55px;
+  left: 90px;
+  margin: 1rem;
+  float: right;
+}
+#bL15{
+  background-color: rgb(118, 243, 34);
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  position: relative;
+  width: 200px;
+  bottom: 140px;
+  left:70px;
+  margin: 1rem;
+  float: right;
+}
+
+#bL16{
+  background-color: rgb(226, 226, 220);
+  color: rgb(104, 5, 104);
+  font-size: 2.5rem;
+  border: rgb(204, 204, 201) 3px solid;
+  margin: 2rem;
+  position: relative;
+  height: 50px;
+  top: 205px;
+  margin: 2rem;
+  
+}
